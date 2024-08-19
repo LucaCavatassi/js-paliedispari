@@ -1,9 +1,3 @@
-> L’utente sceglie pari o dispari e inserisce un numero da 1 a 5. Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione). Sommiamo i due numeri. Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione). Dichiariamo chi ha vinto.
+# Description 
 
-- Chiedo all'utente pari o dispari? 
-- Chiedo all'utente un numero da 1 a 5
-- Creo una funzione che genera un numero random da 1 a 5
-- Sommo il numero utente al numero al numero random 
-    se la somma è pari vince chi ha scelto pari
-        altrimenti
-    ha vinto l'altro
+The user chooses “even” or “odd” and enters a number from 1 to 5. We generate a random number (also between 1 and 5) for the computer (using a function). We add the two numbers together. We determine if the sum of the two numbers is even or odd (using a function). We declare who won.
